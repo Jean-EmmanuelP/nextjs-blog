@@ -1,0 +1,2 @@
+Pour ameliorer le referencement, on peut utiliser un robots.txt 
+sinon on peut egalement utiliser un sitemap.xml
